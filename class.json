@@ -1,0 +1,29 @@
+{
+    "class": [
+        {
+            "id": "1",
+            "name": "Justin",
+            "address": "Lake Stevens"
+        },
+        {
+            "id": "2",
+            "name": "Nithin",
+            "address": "Somewhere"
+        },
+        {
+            "id": "3",
+            "name": "Yoel",
+            "address": "California"
+        },
+        {
+            "id": "4",
+            "name": "Lelia",
+            "address": "Texas"
+        },
+        {
+            "id": "5",
+            "name": "Sara",
+            "address": "Somewhere"
+        }
+    ]
+}
